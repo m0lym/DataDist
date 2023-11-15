@@ -1,0 +1,20 @@
+{
+  "ZoneName": "America/Santiago",
+  "CountryCode": "CL",
+  "CountryName": "Chile",
+  "Current": {
+    "Abbreviation": "CLST",
+    "Start": 1693713600,
+    "Offset": -10800,
+    "DST": true,
+    "UTC": "03/09/2023 04:00:00"
+  },
+  "Next": {
+    "Abbreviation": "CLT",
+    "Start": 1712458800,
+    "Offset": -14400,
+    "DST": false,
+    "UTC": "07/04/2024 03:00:00"
+  },
+  "HasNext": true
+}

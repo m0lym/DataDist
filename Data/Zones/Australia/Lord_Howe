@@ -1,0 +1,20 @@
+{
+  "ZoneName": "Australia/Lord_Howe",
+  "CountryCode": "AU",
+  "CountryName": "Australia",
+  "Current": {
+    "Abbreviation": "LHDT",
+    "Start": 1696087800,
+    "Offset": 39600,
+    "DST": true,
+    "UTC": "30/09/2023 15:30:00"
+  },
+  "Next": {
+    "Abbreviation": "LHST",
+    "Start": 1712415600,
+    "Offset": 37800,
+    "DST": false,
+    "UTC": "06/04/2024 15:00:00"
+  },
+  "HasNext": true
+}

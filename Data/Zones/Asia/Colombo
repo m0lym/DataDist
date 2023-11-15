@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Colombo",
+  "CountryCode": "LK",
+  "CountryName": "Sri Lanka",
+  "Current": {
+    "Abbreviation": "IST",
+    "Start": 1145039400,
+    "Offset": 19800,
+    "DST": false,
+    "UTC": "14/04/2006 18:30:00"
+  },
+  "HasNext": false
+}

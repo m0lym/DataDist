@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Argentina/Tucuman",
+  "CountryCode": "AR",
+  "CountryName": "Argentina",
+  "Current": {
+    "Abbreviation": "ART",
+    "Start": 1237082400,
+    "Offset": -10800,
+    "DST": false,
+    "UTC": "15/03/2009 02:00:00"
+  },
+  "HasNext": false
+}

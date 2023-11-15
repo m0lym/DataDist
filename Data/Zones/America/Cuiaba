@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Cuiaba",
+  "CountryCode": "BR",
+  "CountryName": "Brazil",
+  "Current": {
+    "Abbreviation": "BRT",
+    "Start": 1550372400,
+    "Offset": -14400,
+    "DST": false,
+    "UTC": "17/02/2019 03:00:00"
+  },
+  "HasNext": false
+}

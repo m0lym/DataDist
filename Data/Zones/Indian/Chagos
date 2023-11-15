@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Indian/Chagos",
+  "CountryCode": "IO",
+  "CountryName": "British Indian Ocean Territory",
+  "Current": {
+    "Abbreviation": "IOT",
+    "Start": 820436400,
+    "Offset": 21600,
+    "DST": false,
+    "UTC": "31/12/1995 19:00:00"
+  },
+  "HasNext": false
+}

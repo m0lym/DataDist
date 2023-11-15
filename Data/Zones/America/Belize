@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Belize",
+  "CountryCode": "BZ",
+  "CountryName": "Belize",
+  "Current": {
+    "Abbreviation": "CST",
+    "Start": 413874000,
+    "Offset": -21600,
+    "DST": false,
+    "UTC": "12/02/1983 05:00:00"
+  },
+  "HasNext": false
+}

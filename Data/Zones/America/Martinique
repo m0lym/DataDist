@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Martinique",
+  "CountryCode": "MQ",
+  "CountryName": "Martinique",
+  "Current": {
+    "Abbreviation": "AST",
+    "Start": 338958000,
+    "Offset": -14400,
+    "DST": false,
+    "UTC": "28/09/1980 03:00:00"
+  },
+  "HasNext": false
+}

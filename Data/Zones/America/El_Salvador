@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/El_Salvador",
+  "CountryCode": "SV",
+  "CountryName": "El Salvador",
+  "Current": {
+    "Abbreviation": "CST",
+    "Start": 591166800,
+    "Offset": -21600,
+    "DST": false,
+    "UTC": "25/09/1988 05:00:00"
+  },
+  "HasNext": false
+}

@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Magadan",
+  "CountryCode": "RU",
+  "CountryName": "Russian Federation",
+  "Current": {
+    "Abbreviation": "MAGT",
+    "Start": 1461427200,
+    "Offset": 39600,
+    "DST": false,
+    "UTC": "23/04/2016 16:00:00"
+  },
+  "HasNext": false
+}

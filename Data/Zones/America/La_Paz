@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/La_Paz",
+  "CountryCode": "BO",
+  "CountryName": "Bolivia (Plurinational State of)",
+  "Current": {
+    "Abbreviation": "BOT",
+    "Start": -1192307244,
+    "Offset": -14400,
+    "DST": false,
+    "UTC": "21/03/1932 03:32:36"
+  },
+  "HasNext": false
+}

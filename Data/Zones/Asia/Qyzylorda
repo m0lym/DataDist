@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Qyzylorda",
+  "CountryCode": "KZ",
+  "CountryName": "Kazakhstan",
+  "Current": {
+    "Abbreviation": "MSK+2",
+    "Start": 1545328800,
+    "Offset": 18000,
+    "DST": false,
+    "UTC": "20/12/2018 18:00:00"
+  },
+  "HasNext": false
+}

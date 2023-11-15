@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Europe/Istanbul",
+  "CountryCode": "TR",
+  "CountryName": "Turkey",
+  "Current": {
+    "Abbreviation": "TRT",
+    "Start": 1473195600,
+    "Offset": 10800,
+    "DST": false,
+    "UTC": "06/09/2016 21:00:00"
+  },
+  "HasNext": false
+}

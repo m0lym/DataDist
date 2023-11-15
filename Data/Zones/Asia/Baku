@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Baku",
+  "CountryCode": "AZ",
+  "CountryName": "Azerbaijan",
+  "Current": {
+    "Abbreviation": "AZT",
+    "Start": 1445731200,
+    "Offset": 14400,
+    "DST": false,
+    "UTC": "25/10/2015 00:00:00"
+  },
+  "HasNext": false
+}

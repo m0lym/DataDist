@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Ho_Chi_Minh",
+  "CountryCode": "VN",
+  "CountryName": "Viet Nam",
+  "Current": {
+    "Abbreviation": "IDT",
+    "Start": 171820800,
+    "Offset": 25200,
+    "DST": false,
+    "UTC": "12/06/1975 16:00:00"
+  },
+  "HasNext": false
+}

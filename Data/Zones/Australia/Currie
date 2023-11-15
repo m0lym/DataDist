@@ -1,0 +1,20 @@
+{
+  "ZoneName": "Australia/Currie",
+  "CountryCode": "AU",
+  "CountryName": "Australia",
+  "Current": {
+    "Abbreviation": "AEDT",
+    "Start": 1601740800,
+    "Offset": 39600,
+    "DST": true,
+    "UTC": "03/10/2020 16:00:00"
+  },
+  "Next": {
+    "Abbreviation": "AEST",
+    "Start": 1617465600,
+    "Offset": 36000,
+    "DST": false,
+    "UTC": "03/04/2021 16:00:00"
+  },
+  "HasNext": true
+}

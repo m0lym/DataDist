@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Tahiti",
+  "CountryCode": "PF",
+  "CountryName": "French Polynesia",
+  "Current": {
+    "Abbreviation": "TAHT",
+    "Start": -1806674504,
+    "Offset": -36000,
+    "DST": false,
+    "UTC": "01/10/1912 09:58:16"
+  },
+  "HasNext": false
+}

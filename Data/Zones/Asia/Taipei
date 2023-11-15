@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Taipei",
+  "CountryCode": "TW",
+  "CountryName": "Taiwan, Province of China",
+  "Current": {
+    "Abbreviation": "CST",
+    "Start": 307551600,
+    "Offset": 28800,
+    "DST": false,
+    "UTC": "30/09/1979 15:00:00"
+  },
+  "HasNext": false
+}

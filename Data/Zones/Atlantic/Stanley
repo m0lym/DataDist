@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Atlantic/Stanley",
+  "CountryCode": "FK",
+  "CountryName": "Falkland Islands (Malvinas)",
+  "Current": {
+    "Abbreviation": "FKT",
+    "Start": 1283666400,
+    "Offset": -10800,
+    "DST": false,
+    "UTC": "05/09/2010 06:00:00"
+  },
+  "HasNext": false
+}

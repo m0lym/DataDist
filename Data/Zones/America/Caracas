@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Caracas",
+  "CountryCode": "VE",
+  "CountryName": "Venezuela (Bolivarian Republic of)",
+  "Current": {
+    "Abbreviation": "VET",
+    "Start": 1462086000,
+    "Offset": -14400,
+    "DST": false,
+    "UTC": "01/05/2016 07:00:00"
+  },
+  "HasNext": false
+}

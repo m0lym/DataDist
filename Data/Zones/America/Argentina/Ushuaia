@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Argentina/Ushuaia",
+  "CountryCode": "AR",
+  "CountryName": "Argentina",
+  "Current": {
+    "Abbreviation": "ART",
+    "Start": 1205632800,
+    "Offset": -10800,
+    "DST": false,
+    "UTC": "16/03/2008 02:00:00"
+  },
+  "HasNext": false
+}

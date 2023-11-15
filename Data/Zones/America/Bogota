@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Bogota",
+  "CountryCode": "CO",
+  "CountryName": "Colombia",
+  "Current": {
+    "Abbreviation": "COT",
+    "Start": 733896000,
+    "Offset": -18000,
+    "DST": false,
+    "UTC": "04/04/1993 04:00:00"
+  },
+  "HasNext": false
+}

@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Porto_Velho",
+  "CountryCode": "BR",
+  "CountryName": "Brazil",
+  "Current": {
+    "Abbreviation": "AMT",
+    "Start": 571201200,
+    "Offset": -14400,
+    "DST": false,
+    "UTC": "07/02/1988 03:00:00"
+  },
+  "HasNext": false
+}

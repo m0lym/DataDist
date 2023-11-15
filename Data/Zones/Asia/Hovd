@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Hovd",
+  "CountryCode": "MN",
+  "CountryName": "Mongolia",
+  "Current": {
+    "Abbreviation": "HOVT",
+    "Start": 1474646400,
+    "Offset": 25200,
+    "DST": false,
+    "UTC": "23/09/2016 16:00:00"
+  },
+  "HasNext": false
+}

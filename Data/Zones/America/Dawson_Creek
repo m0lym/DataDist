@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Dawson_Creek",
+  "CountryCode": "CA",
+  "CountryName": "Canada",
+  "Current": {
+    "Abbreviation": "MST",
+    "Start": 84013200,
+    "Offset": -25200,
+    "DST": false,
+    "UTC": "30/08/1972 09:00:00"
+  },
+  "HasNext": false
+}

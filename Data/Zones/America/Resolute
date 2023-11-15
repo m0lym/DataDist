@@ -1,0 +1,20 @@
+{
+  "ZoneName": "America/Resolute",
+  "CountryCode": "CA",
+  "CountryName": "Canada",
+  "Current": {
+    "Abbreviation": "CST",
+    "Start": 1699167600,
+    "Offset": -21600,
+    "DST": false,
+    "UTC": "05/11/2023 07:00:00"
+  },
+  "Next": {
+    "Abbreviation": "CDT",
+    "Start": 1710057600,
+    "Offset": -18000,
+    "DST": true,
+    "UTC": "10/03/2024 08:00:00"
+  },
+  "HasNext": true
+}

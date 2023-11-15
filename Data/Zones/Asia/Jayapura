@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Jayapura",
+  "CountryCode": "ID",
+  "CountryName": "Indonesia",
+  "Current": {
+    "Abbreviation": "WIT",
+    "Start": -189423000,
+    "Offset": 32400,
+    "DST": false,
+    "UTC": "31/12/1963 14:30:00"
+  },
+  "HasNext": false
+}

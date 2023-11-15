@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Africa/Windhoek",
+  "CountryCode": "NA",
+  "CountryName": "Namibia",
+  "Current": {
+    "Abbreviation": "CAT",
+    "Start": 1504400400,
+    "Offset": 7200,
+    "DST": false,
+    "UTC": "03/09/2017 01:00:00"
+  },
+  "HasNext": false
+}

@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Santarem",
+  "CountryCode": "BR",
+  "CountryName": "Brazil",
+  "Current": {
+    "Abbreviation": "BRT",
+    "Start": 1214280000,
+    "Offset": -10800,
+    "DST": false,
+    "UTC": "24/06/2008 04:00:00"
+  },
+  "HasNext": false
+}

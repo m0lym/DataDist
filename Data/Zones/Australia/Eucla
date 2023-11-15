@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Australia/Eucla",
+  "CountryCode": "AU",
+  "CountryName": "Australia",
+  "Current": {
+    "Abbreviation": "ACWST",
+    "Start": 1238260500,
+    "Offset": 31500,
+    "DST": false,
+    "UTC": "28/03/2009 17:15:00"
+  },
+  "HasNext": false
+}

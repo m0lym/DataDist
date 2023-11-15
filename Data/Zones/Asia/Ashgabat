@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Ashgabat",
+  "CountryCode": "TM",
+  "CountryName": "Turkmenistan",
+  "Current": {
+    "Abbreviation": "TMT",
+    "Start": 695772000,
+    "Offset": 18000,
+    "DST": false,
+    "UTC": "18/01/1992 22:00:00"
+  },
+  "HasNext": false
+}

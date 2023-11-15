@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Antarctica/Davis",
+  "CountryCode": "AQ",
+  "CountryName": "Antarctica",
+  "Current": {
+    "Abbreviation": "DAVT",
+    "Start": 1329854400,
+    "Offset": 25200,
+    "DST": false,
+    "UTC": "21/02/2012 20:00:00"
+  },
+  "HasNext": false
+}

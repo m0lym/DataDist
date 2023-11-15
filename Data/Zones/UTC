@@ -1,0 +1,13 @@
+{
+  "ZoneName": "UTC",
+  "CountryCode": "ZZ",
+  "CountryName": "---",
+  "Current": {
+    "Abbreviation": "UTC",
+    "Start": 0,
+    "Offset": 0,
+    "DST": false,
+    "UTC": "01/01/1970 00:00:00"
+  },
+  "HasNext": false
+}

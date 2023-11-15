@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Europe/Astrakhan",
+  "CountryCode": "RU",
+  "CountryName": "Russian Federation",
+  "Current": {
+    "Abbreviation": "MSK+1",
+    "Start": 1459033200,
+    "Offset": 14400,
+    "DST": false,
+    "UTC": "26/03/2016 23:00:00"
+  },
+  "HasNext": false
+}

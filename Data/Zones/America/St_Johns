@@ -1,0 +1,20 @@
+{
+  "ZoneName": "America/St_Johns",
+  "CountryCode": "CA",
+  "CountryName": "Canada",
+  "Current": {
+    "Abbreviation": "NST",
+    "Start": 1699158600,
+    "Offset": -12600,
+    "DST": false,
+    "UTC": "05/11/2023 04:30:00"
+  },
+  "Next": {
+    "Abbreviation": "NDT",
+    "Start": 1710048600,
+    "Offset": -9000,
+    "DST": true,
+    "UTC": "10/03/2024 05:30:00"
+  },
+  "HasNext": true
+}

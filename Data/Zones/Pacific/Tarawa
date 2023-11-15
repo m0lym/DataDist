@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Tarawa",
+  "CountryCode": "KI",
+  "CountryName": "Kiribati",
+  "Current": {
+    "Abbreviation": "GILT",
+    "Start": -2177494324,
+    "Offset": 43200,
+    "DST": false,
+    "UTC": "31/12/1900 12:27:56"
+  },
+  "HasNext": false
+}

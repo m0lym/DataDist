@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Cayenne",
+  "CountryCode": "GF",
+  "CountryName": "French Guiana",
+  "Current": {
+    "Abbreviation": "GFT",
+    "Start": -71092800,
+    "Offset": -10800,
+    "DST": false,
+    "UTC": "01/10/1967 04:00:00"
+  },
+  "HasNext": false
+}

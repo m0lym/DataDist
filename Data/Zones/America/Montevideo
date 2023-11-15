@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Montevideo",
+  "CountryCode": "UY",
+  "CountryName": "Uruguay",
+  "Current": {
+    "Abbreviation": "UYT",
+    "Start": 1425787200,
+    "Offset": -10800,
+    "DST": false,
+    "UTC": "08/03/2015 04:00:00"
+  },
+  "HasNext": false
+}

@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Gambier",
+  "CountryCode": "PF",
+  "CountryName": "French Polynesia",
+  "Current": {
+    "Abbreviation": "GAMT",
+    "Start": -1806678012,
+    "Offset": -32400,
+    "DST": false,
+    "UTC": "01/10/1912 08:59:48"
+  },
+  "HasNext": false
+}

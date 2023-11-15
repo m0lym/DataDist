@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Europe/Kaliningrad",
+  "CountryCode": "RU",
+  "CountryName": "Russian Federation",
+  "Current": {
+    "Abbreviation": "EET",
+    "Start": 1414278000,
+    "Offset": 7200,
+    "DST": false,
+    "UTC": "25/10/2014 23:00:00"
+  },
+  "HasNext": false
+}

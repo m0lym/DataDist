@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Antarctica/Casey",
+  "CountryCode": "AQ",
+  "CountryName": "Antarctica",
+  "Current": {
+    "Abbreviation": "CAST",
+    "Start": 1601740860,
+    "Offset": 39600,
+    "DST": false,
+    "UTC": "03/10/2020 16:01:00"
+  },
+  "HasNext": false
+}

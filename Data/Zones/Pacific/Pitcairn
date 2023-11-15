@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Pitcairn",
+  "CountryCode": "PN",
+  "CountryName": "Pitcairn",
+  "Current": {
+    "Abbreviation": "PST",
+    "Start": 893665800,
+    "Offset": -28800,
+    "DST": false,
+    "UTC": "27/04/1998 08:30:00"
+  },
+  "HasNext": false
+}

@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Africa/Khartoum",
+  "CountryCode": "SD",
+  "CountryName": "Sudan",
+  "Current": {
+    "Abbreviation": "CAT",
+    "Start": 1509483600,
+    "Offset": 7200,
+    "DST": false,
+    "UTC": "31/10/2017 21:00:00"
+  },
+  "HasNext": false
+}

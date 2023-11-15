@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Dawson",
+  "CountryCode": "CA",
+  "CountryName": "Canada",
+  "Current": {
+    "Abbreviation": "MST",
+    "Start": 1604214000,
+    "Offset": -25200,
+    "DST": false,
+    "UTC": "01/11/2020 07:00:00"
+  },
+  "HasNext": false
+}

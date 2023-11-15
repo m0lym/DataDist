@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Jakarta",
+  "CountryCode": "ID",
+  "CountryName": "Indonesia",
+  "Current": {
+    "Abbreviation": "WIB",
+    "Start": -189415800,
+    "Offset": 25200,
+    "DST": false,
+    "UTC": "31/12/1963 16:30:00"
+  },
+  "HasNext": false
+}

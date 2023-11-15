@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Guayaquil",
+  "CountryCode": "EC",
+  "CountryName": "Ecuador",
+  "Current": {
+    "Abbreviation": "ECT",
+    "Start": 728884800,
+    "Offset": -18000,
+    "DST": false,
+    "UTC": "05/02/1993 04:00:00"
+  },
+  "HasNext": false
+}

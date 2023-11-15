@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Qostanay",
+  "CountryCode": "KZ",
+  "CountryName": "Kazakhstan",
+  "Current": {
+    "Abbreviation": "QYZST",
+    "Start": 1080421200,
+    "Offset": 21600,
+    "DST": true,
+    "UTC": "27/03/2004 21:00:00"
+  },
+  "HasNext": false
+}

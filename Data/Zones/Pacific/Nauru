@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Nauru",
+  "CountryCode": "NR",
+  "CountryName": "Nauru",
+  "Current": {
+    "Abbreviation": "NRT",
+    "Start": 287418600,
+    "Offset": 43200,
+    "DST": false,
+    "UTC": "09/02/1979 14:30:00"
+  },
+  "HasNext": false
+}

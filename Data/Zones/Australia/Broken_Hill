@@ -1,0 +1,20 @@
+{
+  "ZoneName": "Australia/Broken_Hill",
+  "CountryCode": "AU",
+  "CountryName": "Australia",
+  "Current": {
+    "Abbreviation": "ACDT",
+    "Start": 1696091400,
+    "Offset": 37800,
+    "DST": true,
+    "UTC": "30/09/2023 16:30:00"
+  },
+  "Next": {
+    "Abbreviation": "ACST",
+    "Start": 1712421000,
+    "Offset": 34200,
+    "DST": false,
+    "UTC": "06/04/2024 16:30:00"
+  },
+  "HasNext": true
+}

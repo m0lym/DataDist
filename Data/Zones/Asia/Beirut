@@ -1,0 +1,20 @@
+{
+  "ZoneName": "Asia/Beirut",
+  "CountryCode": "LB",
+  "CountryName": "Lebanon",
+  "Current": {
+    "Abbreviation": "EET",
+    "Start": 1698526800,
+    "Offset": 7200,
+    "DST": false,
+    "UTC": "28/10/2023 21:00:00"
+  },
+  "Next": {
+    "Abbreviation": "EEST",
+    "Start": 1711836000,
+    "Offset": 10800,
+    "DST": true,
+    "UTC": "30/03/2024 22:00:00"
+  },
+  "HasNext": true
+}

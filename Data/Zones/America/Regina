@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Regina",
+  "CountryCode": "CA",
+  "CountryName": "Canada",
+  "Current": {
+    "Abbreviation": "CST",
+    "Start": -305737200,
+    "Offset": -21600,
+    "DST": false,
+    "UTC": "24/04/1960 09:00:00"
+  },
+  "HasNext": false
+}

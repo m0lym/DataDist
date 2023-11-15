@@ -1,0 +1,20 @@
+{
+  "ZoneName": "America/Vancouver",
+  "CountryCode": "CA",
+  "CountryName": "Canada",
+  "Current": {
+    "Abbreviation": "PST",
+    "Start": 1699174800,
+    "Offset": -28800,
+    "DST": false,
+    "UTC": "05/11/2023 09:00:00"
+  },
+  "Next": {
+    "Abbreviation": "PDT",
+    "Start": 1710064800,
+    "Offset": -25200,
+    "DST": true,
+    "UTC": "10/03/2024 10:00:00"
+  },
+  "HasNext": true
+}

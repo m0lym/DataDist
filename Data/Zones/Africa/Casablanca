@@ -1,0 +1,20 @@
+{
+  "ZoneName": "Africa/Casablanca",
+  "CountryCode": "MA",
+  "CountryName": "Morocco",
+  "Current": {
+    "Abbreviation": "WEST",
+    "Start": 1682820000,
+    "Offset": 3600,
+    "DST": false,
+    "UTC": "30/04/2023 02:00:00"
+  },
+  "Next": {
+    "Abbreviation": "WET",
+    "Start": 1710036000,
+    "Offset": 0,
+    "DST": true,
+    "UTC": "10/03/2024 02:00:00"
+  },
+  "HasNext": true
+}

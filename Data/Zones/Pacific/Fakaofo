@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Fakaofo",
+  "CountryCode": "TK",
+  "CountryName": "Tokelau",
+  "Current": {
+    "Abbreviation": "TKT",
+    "Start": 1325242800,
+    "Offset": 46800,
+    "DST": false,
+    "UTC": "30/12/2011 11:00:00"
+  },
+  "HasNext": false
+}

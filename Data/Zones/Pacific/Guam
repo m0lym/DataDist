@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Guam",
+  "CountryCode": "GU",
+  "CountryName": "Guam",
+  "Current": {
+    "Abbreviation": "ChST",
+    "Start": 977493600,
+    "Offset": 36000,
+    "DST": false,
+    "UTC": "22/12/2000 14:00:00"
+  },
+  "HasNext": false
+}

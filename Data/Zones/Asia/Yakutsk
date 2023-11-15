@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Yakutsk",
+  "CountryCode": "RU",
+  "CountryName": "Russian Federation",
+  "Current": {
+    "Abbreviation": "YAKT",
+    "Start": 1414252800,
+    "Offset": 32400,
+    "DST": false,
+    "UTC": "25/10/2014 16:00:00"
+  },
+  "HasNext": false
+}

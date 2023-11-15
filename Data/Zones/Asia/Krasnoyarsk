@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Krasnoyarsk",
+  "CountryCode": "RU",
+  "CountryName": "Russian Federation",
+  "Current": {
+    "Abbreviation": "KRAT",
+    "Start": 1414260000,
+    "Offset": 25200,
+    "DST": false,
+    "UTC": "25/10/2014 18:00:00"
+  },
+  "HasNext": false
+}

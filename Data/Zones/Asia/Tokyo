@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Tokyo",
+  "CountryCode": "JP",
+  "CountryName": "Japan",
+  "Current": {
+    "Abbreviation": "JST",
+    "Start": -577962000,
+    "Offset": 32400,
+    "DST": false,
+    "UTC": "08/09/1951 15:00:00"
+  },
+  "HasNext": false
+}

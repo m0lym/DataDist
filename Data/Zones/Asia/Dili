@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Dili",
+  "CountryCode": "TL",
+  "CountryName": "Timor-Leste",
+  "Current": {
+    "Abbreviation": "TLT",
+    "Start": 969120000,
+    "Offset": 32400,
+    "DST": false,
+    "UTC": "16/09/2000 16:00:00"
+  },
+  "HasNext": false
+}

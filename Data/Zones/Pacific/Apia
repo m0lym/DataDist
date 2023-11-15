@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Apia",
+  "CountryCode": "WS",
+  "CountryName": "Samoa",
+  "Current": {
+    "Abbreviation": "WST",
+    "Start": 1617458400,
+    "Offset": 46800,
+    "DST": false,
+    "UTC": "03/04/2021 14:00:00"
+  },
+  "HasNext": false
+}

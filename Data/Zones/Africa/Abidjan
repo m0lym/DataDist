@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Africa/Abidjan",
+  "CountryCode": "CI",
+  "CountryName": "Côte d'Ivoire",
+  "Current": {
+    "Abbreviation": "GMT",
+    "Start": -1830383032,
+    "Offset": 0,
+    "DST": false,
+    "UTC": "01/01/1912 00:16:08"
+  },
+  "HasNext": false
+}

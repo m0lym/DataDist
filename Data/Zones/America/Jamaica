@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Jamaica",
+  "CountryCode": "JM",
+  "CountryName": "Jamaica",
+  "Current": {
+    "Abbreviation": "EST",
+    "Start": 436341600,
+    "Offset": -18000,
+    "DST": false,
+    "UTC": "30/10/1983 06:00:00"
+  },
+  "HasNext": false
+}

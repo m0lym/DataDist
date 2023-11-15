@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Kwajalein",
+  "CountryCode": "MH",
+  "CountryName": "Marshall Islands",
+  "Current": {
+    "Abbreviation": "+12",
+    "Start": 745934400,
+    "Offset": 43200,
+    "DST": false,
+    "UTC": "21/08/1993 12:00:00"
+  },
+  "HasNext": false
+}

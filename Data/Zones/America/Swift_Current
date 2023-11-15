@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Swift_Current",
+  "CountryCode": "CA",
+  "CountryName": "Canada",
+  "Current": {
+    "Abbreviation": "CST",
+    "Start": 73472400,
+    "Offset": -21600,
+    "DST": false,
+    "UTC": "30/04/1972 09:00:00"
+  },
+  "HasNext": false
+}

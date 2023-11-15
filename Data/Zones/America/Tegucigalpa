@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Tegucigalpa",
+  "CountryCode": "HN",
+  "CountryName": "Honduras",
+  "Current": {
+    "Abbreviation": "CST",
+    "Start": 1154926800,
+    "Offset": -21600,
+    "DST": false,
+    "UTC": "07/08/2006 05:00:00"
+  },
+  "HasNext": false
+}

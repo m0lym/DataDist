@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Kiritimati",
+  "CountryCode": "KI",
+  "CountryName": "Kiribati",
+  "Current": {
+    "Abbreviation": "LINT",
+    "Start": 788868000,
+    "Offset": 50400,
+    "DST": false,
+    "UTC": "31/12/1994 10:00:00"
+  },
+  "HasNext": false
+}

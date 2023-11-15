@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Kanton",
+  "CountryCode": "KI",
+  "CountryName": "Kiribati",
+  "Current": {
+    "Abbreviation": "EST",
+    "Start": 788871600,
+    "Offset": 46800,
+    "DST": false,
+    "UTC": "31/12/1994 11:00:00"
+  },
+  "HasNext": false
+}

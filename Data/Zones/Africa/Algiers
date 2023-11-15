@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Africa/Algiers",
+  "CountryCode": "DZ",
+  "CountryName": "Algeria",
+  "Current": {
+    "Abbreviation": "CET",
+    "Start": 357523200,
+    "Offset": 3600,
+    "DST": false,
+    "UTC": "01/05/1981 00:00:00"
+  },
+  "HasNext": false
+}

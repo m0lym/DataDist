@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Africa/Ndjamena",
+  "CountryCode": "TD",
+  "CountryName": "Chad",
+  "Current": {
+    "Abbreviation": "WAT",
+    "Start": 321314400,
+    "Offset": 3600,
+    "DST": false,
+    "UTC": "07/03/1980 22:00:00"
+  },
+  "HasNext": false
+}

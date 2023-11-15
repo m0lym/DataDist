@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Etc/GMT+5",
+  "CountryCode": "ZZ",
+  "CountryName": "---",
+  "Current": {
+    "Abbreviation": "GMT+5",
+    "Start": 0,
+    "Offset": 18000,
+    "DST": false,
+    "UTC": "01/01/1970 00:00:00"
+  },
+  "HasNext": false
+}

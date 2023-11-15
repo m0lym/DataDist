@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Santo_Domingo",
+  "CountryCode": "DO",
+  "CountryName": "Dominican Republic",
+  "Current": {
+    "Abbreviation": "AST",
+    "Start": 975823200,
+    "Offset": -14400,
+    "DST": false,
+    "UTC": "03/12/2000 06:00:00"
+  },
+  "HasNext": false
+}

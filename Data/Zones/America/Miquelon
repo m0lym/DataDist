@@ -1,0 +1,20 @@
+{
+  "ZoneName": "America/Miquelon",
+  "CountryCode": "PM",
+  "CountryName": "Saint Pierre and Miquelon",
+  "Current": {
+    "Abbreviation": "PMDT",
+    "Start": 1699156800,
+    "Offset": -10800,
+    "DST": false,
+    "UTC": "05/11/2023 04:00:00"
+  },
+  "Next": {
+    "Abbreviation": "PMST",
+    "Start": 1710046800,
+    "Offset": -7200,
+    "DST": true,
+    "UTC": "10/03/2024 05:00:00"
+  },
+  "HasNext": true
+}

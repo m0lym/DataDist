@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Atlantic/South_Georgia",
+  "CountryCode": "GS",
+  "CountryName": "South Georgia and the South Sandwich Islands",
+  "Current": {
+    "Abbreviation": "GST",
+    "Start": -2524512832,
+    "Offset": -7200,
+    "DST": false,
+    "UTC": "01/01/1890 02:26:08"
+  },
+  "HasNext": false
+}

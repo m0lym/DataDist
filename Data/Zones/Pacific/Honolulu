@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Honolulu",
+  "CountryCode": "US",
+  "CountryName": "United States of America",
+  "Current": {
+    "Abbreviation": "HST",
+    "Start": -712150200,
+    "Offset": -36000,
+    "DST": false,
+    "UTC": "08/06/1947 12:30:00"
+  },
+  "HasNext": false
+}

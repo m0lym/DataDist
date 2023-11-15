@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Wallis",
+  "CountryCode": "WF",
+  "CountryName": "Wallis and Futuna",
+  "Current": {
+    "Abbreviation": "WFT",
+    "Start": -2177496920,
+    "Offset": 43200,
+    "DST": false,
+    "UTC": "31/12/1900 11:44:40"
+  },
+  "HasNext": false
+}

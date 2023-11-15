@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Singapore",
+  "CountryCode": "SG",
+  "CountryName": "Singapore",
+  "Current": {
+    "Abbreviation": "SST",
+    "Start": 378664200,
+    "Offset": 28800,
+    "DST": false,
+    "UTC": "31/12/1981 16:30:00"
+  },
+  "HasNext": false
+}

@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Funafuti",
+  "CountryCode": "TV",
+  "CountryName": "Tuvalu",
+  "Current": {
+    "Abbreviation": "TVT",
+    "Start": -2177495812,
+    "Offset": 43200,
+    "DST": false,
+    "UTC": "31/12/1900 12:03:08"
+  },
+  "HasNext": false
+}

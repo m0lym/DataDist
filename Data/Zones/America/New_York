@@ -1,0 +1,20 @@
+{
+  "ZoneName": "America/New_York",
+  "CountryCode": "US",
+  "CountryName": "United States of America",
+  "Current": {
+    "Abbreviation": "EST",
+    "Start": 1699164000,
+    "Offset": -18000,
+    "DST": false,
+    "UTC": "05/11/2023 06:00:00"
+  },
+  "Next": {
+    "Abbreviation": "EDT",
+    "Start": 1710054000,
+    "Offset": -14400,
+    "DST": true,
+    "UTC": "10/03/2024 07:00:00"
+  },
+  "HasNext": true
+}

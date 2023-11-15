@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Kuala_Lumpur",
+  "CountryCode": "MY",
+  "CountryName": "Malaysia",
+  "Current": {
+    "Abbreviation": "MYT",
+    "Start": 378664200,
+    "Offset": 28800,
+    "DST": false,
+    "UTC": "31/12/1981 16:30:00"
+  },
+  "HasNext": false
+}

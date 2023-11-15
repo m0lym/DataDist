@@ -1,0 +1,20 @@
+{
+  "ZoneName": "America/Asuncion",
+  "CountryCode": "PY",
+  "CountryName": "Paraguay",
+  "Current": {
+    "Abbreviation": "PYST",
+    "Start": 1696132800,
+    "Offset": -10800,
+    "DST": true,
+    "UTC": "01/10/2023 04:00:00"
+  },
+  "Next": {
+    "Abbreviation": "PYT",
+    "Start": 1711249200,
+    "Offset": -14400,
+    "DST": false,
+    "UTC": "24/03/2024 03:00:00"
+  },
+  "HasNext": true
+}

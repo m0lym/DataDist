@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Tashkent",
+  "CountryCode": "UZ",
+  "CountryName": "Uzbekistan",
+  "Current": {
+    "Abbreviation": "UZT",
+    "Start": 686091600,
+    "Offset": 18000,
+    "DST": false,
+    "UTC": "28/09/1991 21:00:00"
+  },
+  "HasNext": false
+}

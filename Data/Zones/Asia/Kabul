@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Kabul",
+  "CountryCode": "AF",
+  "CountryName": "Afghanistan",
+  "Current": {
+    "Abbreviation": "AFT",
+    "Start": -788932800,
+    "Offset": 16200,
+    "DST": false,
+    "UTC": "31/12/1944 20:00:00"
+  },
+  "HasNext": false
+}

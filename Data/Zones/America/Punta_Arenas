@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Punta_Arenas",
+  "CountryCode": "CL",
+  "CountryName": "Chile",
+  "Current": {
+    "Abbreviation": "CLST",
+    "Start": 1471147200,
+    "Offset": -10800,
+    "DST": true,
+    "UTC": "14/08/2016 04:00:00"
+  },
+  "HasNext": false
+}

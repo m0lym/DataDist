@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Brunei",
+  "CountryCode": "BN",
+  "CountryName": "Brunei Darussalam",
+  "Current": {
+    "Abbreviation": "BNT",
+    "Start": -1167636600,
+    "Offset": 28800,
+    "DST": false,
+    "UTC": "31/12/1932 16:30:00"
+  },
+  "HasNext": false
+}

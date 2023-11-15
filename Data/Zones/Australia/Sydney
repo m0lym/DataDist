@@ -1,0 +1,20 @@
+{
+  "ZoneName": "Australia/Sydney",
+  "CountryCode": "AU",
+  "CountryName": "Australia",
+  "Current": {
+    "Abbreviation": "AEDT",
+    "Start": 1696089600,
+    "Offset": 39600,
+    "DST": true,
+    "UTC": "30/09/2023 16:00:00"
+  },
+  "Next": {
+    "Abbreviation": "AEST",
+    "Start": 1712419200,
+    "Offset": 36000,
+    "DST": false,
+    "UTC": "06/04/2024 16:00:00"
+  },
+  "HasNext": true
+}

@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Fort_Nelson",
+  "CountryCode": "CA",
+  "CountryName": "Canada",
+  "Current": {
+    "Abbreviation": "MST",
+    "Start": 1425808800,
+    "Offset": -25200,
+    "DST": false,
+    "UTC": "08/03/2015 10:00:00"
+  },
+  "HasNext": false
+}

@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Urumqi",
+  "CountryCode": "CN",
+  "CountryName": "China",
+  "Current": {
+    "Abbreviation": "URUT",
+    "Start": -1325483420,
+    "Offset": 21600,
+    "DST": false,
+    "UTC": "31/12/1927 18:09:40"
+  },
+  "HasNext": false
+}

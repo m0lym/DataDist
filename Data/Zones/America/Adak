@@ -1,0 +1,20 @@
+{
+  "ZoneName": "America/Adak",
+  "CountryCode": "US",
+  "CountryName": "United States of America",
+  "Current": {
+    "Abbreviation": "HST",
+    "Start": 1699182000,
+    "Offset": -36000,
+    "DST": false,
+    "UTC": "05/11/2023 11:00:00"
+  },
+  "Next": {
+    "Abbreviation": "HDT",
+    "Start": 1710072000,
+    "Offset": -32400,
+    "DST": true,
+    "UTC": "10/03/2024 12:00:00"
+  },
+  "HasNext": true
+}

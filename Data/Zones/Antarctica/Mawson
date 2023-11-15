@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Antarctica/Mawson",
+  "CountryCode": "AQ",
+  "CountryName": "Antarctica",
+  "Current": {
+    "Abbreviation": "MAWT",
+    "Start": 1255809600,
+    "Offset": 18000,
+    "DST": false,
+    "UTC": "17/10/2009 20:00:00"
+  },
+  "HasNext": false
+}

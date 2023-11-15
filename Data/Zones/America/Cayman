@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Cayman",
+  "CountryCode": "KY",
+  "CountryName": "Cayman Islands",
+  "Current": {
+    "Abbreviation": "EST",
+    "Start": -1946918424,
+    "Offset": -18000,
+    "DST": false,
+    "UTC": "22/04/1908 05:19:36"
+  },
+  "HasNext": false
+}

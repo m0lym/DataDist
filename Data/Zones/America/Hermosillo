@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Hermosillo",
+  "CountryCode": "MX",
+  "CountryName": "Mexico",
+  "Current": {
+    "Abbreviation": "MST",
+    "Start": 909302400,
+    "Offset": -25200,
+    "DST": false,
+    "UTC": "25/10/1998 08:00:00"
+  },
+  "HasNext": false
+}

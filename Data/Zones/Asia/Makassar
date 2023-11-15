@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Makassar",
+  "CountryCode": "ID",
+  "CountryName": "Indonesia",
+  "Current": {
+    "Abbreviation": "WITA",
+    "Start": -766054800,
+    "Offset": 28800,
+    "DST": false,
+    "UTC": "22/09/1945 15:00:00"
+  },
+  "HasNext": false
+}

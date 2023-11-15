@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Srednekolymsk",
+  "CountryCode": "RU",
+  "CountryName": "Russian Federation",
+  "Current": {
+    "Abbreviation": "SRET",
+    "Start": 1414245600,
+    "Offset": 39600,
+    "DST": false,
+    "UTC": "25/10/2014 14:00:00"
+  },
+  "HasNext": false
+}

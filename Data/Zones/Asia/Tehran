@@ -1,0 +1,20 @@
+{
+  "ZoneName": "Asia/Tehran",
+  "CountryCode": "IR",
+  "CountryName": "Iran (Islamic Republic of)",
+  "Current": {
+    "Abbreviation": "IRDT",
+    "Start": 1695324600,
+    "Offset": 12600,
+    "DST": false,
+    "UTC": "21/09/2023 19:30:00"
+  },
+  "Next": {
+    "Abbreviation": "IRST",
+    "Start": 1710966600,
+    "Offset": 16200,
+    "DST": true,
+    "UTC": "20/03/2024 20:30:00"
+  },
+  "HasNext": true
+}

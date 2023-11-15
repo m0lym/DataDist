@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Africa/Monrovia",
+  "CountryCode": "LR",
+  "CountryName": "Liberia",
+  "Current": {
+    "Abbreviation": "GMT",
+    "Start": 63593070,
+    "Offset": 0,
+    "DST": false,
+    "UTC": "07/01/1972 00:44:30"
+  },
+  "HasNext": false
+}

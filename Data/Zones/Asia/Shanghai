@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Shanghai",
+  "CountryCode": "CN",
+  "CountryName": "China",
+  "Current": {
+    "Abbreviation": "CST",
+    "Start": 684867600,
+    "Offset": 28800,
+    "DST": false,
+    "UTC": "14/09/1991 17:00:00"
+  },
+  "HasNext": false
+}

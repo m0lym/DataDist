@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Majuro",
+  "CountryCode": "MH",
+  "CountryName": "Marshall Islands",
+  "Current": {
+    "Abbreviation": "+12",
+    "Start": -7988400,
+    "Offset": 43200,
+    "DST": false,
+    "UTC": "30/09/1969 13:00:00"
+  },
+  "HasNext": false
+}

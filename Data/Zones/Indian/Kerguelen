@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Indian/Kerguelen",
+  "CountryCode": "TF",
+  "CountryName": "French Southern Territories",
+  "Current": {
+    "Abbreviation": "TFT",
+    "Start": -631152000,
+    "Offset": 18000,
+    "DST": false,
+    "UTC": "01/01/1950 00:00:00"
+  },
+  "HasNext": false
+}

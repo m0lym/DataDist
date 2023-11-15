@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Atlantic/Reykjavik",
+  "CountryCode": "IS",
+  "CountryName": "Iceland",
+  "Current": {
+    "Abbreviation": "GMT",
+    "Start": -54770400,
+    "Offset": 0,
+    "DST": false,
+    "UTC": "07/04/1968 02:00:00"
+  },
+  "HasNext": false
+}

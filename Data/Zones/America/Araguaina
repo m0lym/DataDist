@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Araguaina",
+  "CountryCode": "BR",
+  "CountryName": "Brazil",
+  "Current": {
+    "Abbreviation": "BRT",
+    "Start": 1361066400,
+    "Offset": -10800,
+    "DST": false,
+    "UTC": "17/02/2013 02:00:00"
+  },
+  "HasNext": false
+}

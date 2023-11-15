@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Africa/Sao_Tome",
+  "CountryCode": "ST",
+  "CountryName": "Sao Tome and Principe",
+  "Current": {
+    "Abbreviation": "GMT",
+    "Start": 1546304400,
+    "Offset": 0,
+    "DST": false,
+    "UTC": "01/01/2019 01:00:00"
+  },
+  "HasNext": false
+}

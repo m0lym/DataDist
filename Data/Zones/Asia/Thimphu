@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Thimphu",
+  "CountryCode": "BT",
+  "CountryName": "Bhutan",
+  "Current": {
+    "Abbreviation": "BTT",
+    "Start": 560025000,
+    "Offset": 21600,
+    "DST": false,
+    "UTC": "30/09/1987 18:30:00"
+  },
+  "HasNext": false
+}

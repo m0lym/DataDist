@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Sakhalin",
+  "CountryCode": "RU",
+  "CountryName": "Russian Federation",
+  "Current": {
+    "Abbreviation": "SAKT",
+    "Start": 1459008000,
+    "Offset": 39600,
+    "DST": false,
+    "UTC": "26/03/2016 16:00:00"
+  },
+  "HasNext": false
+}

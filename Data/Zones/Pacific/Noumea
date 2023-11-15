@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Noumea",
+  "CountryCode": "NC",
+  "CountryName": "New Caledonia",
+  "Current": {
+    "Abbreviation": "NCT",
+    "Start": 857228400,
+    "Offset": 39600,
+    "DST": false,
+    "UTC": "01/03/1997 15:00:00"
+  },
+  "HasNext": false
+}

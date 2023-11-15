@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Managua",
+  "CountryCode": "NI",
+  "CountryName": "Nicaragua",
+  "Current": {
+    "Abbreviation": "CST",
+    "Start": 1159682400,
+    "Offset": -21600,
+    "DST": false,
+    "UTC": "01/10/2006 06:00:00"
+  },
+  "HasNext": false
+}

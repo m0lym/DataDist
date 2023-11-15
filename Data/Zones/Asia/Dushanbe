@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Dushanbe",
+  "CountryCode": "TJ",
+  "CountryName": "Tajikistan",
+  "Current": {
+    "Abbreviation": "TJT",
+    "Start": 684363600,
+    "Offset": 18000,
+    "DST": false,
+    "UTC": "08/09/1991 21:00:00"
+  },
+  "HasNext": false
+}

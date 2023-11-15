@@ -1,0 +1,20 @@
+{
+  "ZoneName": "Pacific/Fiji",
+  "CountryCode": "FJ",
+  "CountryName": "Fiji",
+  "Current": {
+    "Abbreviation": "FJT",
+    "Start": 1699711200,
+    "Offset": 46800,
+    "DST": true,
+    "UTC": "11/11/2023 14:00:00"
+  },
+  "Next": {
+    "Abbreviation": "FJT",
+    "Start": 1705154400,
+    "Offset": 43200,
+    "DST": false,
+    "UTC": "13/01/2024 14:00:00"
+  },
+  "HasNext": true
+}

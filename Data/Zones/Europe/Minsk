@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Europe/Minsk",
+  "CountryCode": "BY",
+  "CountryName": "Belarus",
+  "Current": {
+    "Abbreviation": "MSK",
+    "Start": 1301184000,
+    "Offset": 10800,
+    "DST": false,
+    "UTC": "27/03/2011 00:00:00"
+  },
+  "HasNext": false
+}

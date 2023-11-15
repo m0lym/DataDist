@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Guadalcanal",
+  "CountryCode": "SB",
+  "CountryName": "Solomon Islands",
+  "Current": {
+    "Abbreviation": "SBT",
+    "Start": -1806748788,
+    "Offset": 39600,
+    "DST": false,
+    "UTC": "30/09/1912 13:20:12"
+  },
+  "HasNext": false
+}

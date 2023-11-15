@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Indian/Maldives",
+  "CountryCode": "MV",
+  "CountryName": "Maldives",
+  "Current": {
+    "Abbreviation": "MVT",
+    "Start": -315636840,
+    "Offset": 18000,
+    "DST": false,
+    "UTC": "31/12/1959 19:06:00"
+  },
+  "HasNext": false
+}

@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Efate",
+  "CountryCode": "VU",
+  "CountryName": "Vanuatu",
+  "Current": {
+    "Abbreviation": "VUT",
+    "Start": 727790400,
+    "Offset": 39600,
+    "DST": false,
+    "UTC": "23/01/1993 12:00:00"
+  },
+  "HasNext": false
+}

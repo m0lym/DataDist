@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Argentina/San_Luis",
+  "CountryCode": "AR",
+  "CountryName": "Argentina",
+  "Current": {
+    "Abbreviation": "ART",
+    "Start": 1255233600,
+    "Offset": -10800,
+    "DST": false,
+    "UTC": "11/10/2009 04:00:00"
+  },
+  "HasNext": false
+}

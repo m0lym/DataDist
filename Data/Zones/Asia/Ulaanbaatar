@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Ulaanbaatar",
+  "CountryCode": "MN",
+  "CountryName": "Mongolia",
+  "Current": {
+    "Abbreviation": "ULAT",
+    "Start": 1474642800,
+    "Offset": 28800,
+    "DST": false,
+    "UTC": "23/09/2016 15:00:00"
+  },
+  "HasNext": false
+}

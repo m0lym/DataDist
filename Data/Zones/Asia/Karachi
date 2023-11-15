@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Karachi",
+  "CountryCode": "PK",
+  "CountryName": "Pakistan",
+  "Current": {
+    "Abbreviation": "PKT",
+    "Start": 1257012000,
+    "Offset": 18000,
+    "DST": false,
+    "UTC": "31/10/2009 18:00:00"
+  },
+  "HasNext": false
+}

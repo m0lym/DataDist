@@ -1,0 +1,20 @@
+{
+  "ZoneName": "America/Sitka",
+  "CountryCode": "US",
+  "CountryName": "United States of America",
+  "Current": {
+    "Abbreviation": "AKST",
+    "Start": 1699178400,
+    "Offset": -32400,
+    "DST": false,
+    "UTC": "05/11/2023 10:00:00"
+  },
+  "Next": {
+    "Abbreviation": "AKDT",
+    "Start": 1710068400,
+    "Offset": -28800,
+    "DST": true,
+    "UTC": "10/03/2024 11:00:00"
+  },
+  "HasNext": true
+}

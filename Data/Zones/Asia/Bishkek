@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Bishkek",
+  "CountryCode": "KG",
+  "CountryName": "Kyrgyzstan",
+  "Current": {
+    "Abbreviation": "KGST",
+    "Start": 1111872600,
+    "Offset": 21600,
+    "DST": true,
+    "UTC": "26/03/2005 21:30:00"
+  },
+  "HasNext": false
+}

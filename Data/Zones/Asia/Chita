@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Chita",
+  "CountryCode": "RU",
+  "CountryName": "Russian Federation",
+  "Current": {
+    "Abbreviation": "YAKT",
+    "Start": 1459015200,
+    "Offset": 32400,
+    "DST": false,
+    "UTC": "26/03/2016 18:00:00"
+  },
+  "HasNext": false
+}

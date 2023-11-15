@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Dhaka",
+  "CountryCode": "BD",
+  "CountryName": "Bangladesh",
+  "Current": {
+    "Abbreviation": "BST",
+    "Start": 1262278800,
+    "Offset": 21600,
+    "DST": false,
+    "UTC": "31/12/2009 17:00:00"
+  },
+  "HasNext": false
+}

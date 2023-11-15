@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Yerevan",
+  "CountryCode": "AM",
+  "CountryName": "Armenia",
+  "Current": {
+    "Abbreviation": "AMT",
+    "Start": 1319925600,
+    "Offset": 14400,
+    "DST": false,
+    "UTC": "29/10/2011 22:00:00"
+  },
+  "HasNext": false
+}

@@ -1,0 +1,20 @@
+{
+  "ZoneName": "Pacific/Auckland",
+  "CountryCode": "NZ",
+  "CountryName": "New Zealand",
+  "Current": {
+    "Abbreviation": "NZDT",
+    "Start": 1695477600,
+    "Offset": 46800,
+    "DST": true,
+    "UTC": "23/09/2023 14:00:00"
+  },
+  "Next": {
+    "Abbreviation": "NZST",
+    "Start": 1712412000,
+    "Offset": 43200,
+    "DST": false,
+    "UTC": "06/04/2024 14:00:00"
+  },
+  "HasNext": true
+}

@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Rarotonga",
+  "CountryCode": "CK",
+  "CountryName": "Cook Islands",
+  "Current": {
+    "Abbreviation": "CKT",
+    "Start": 667992600,
+    "Offset": -36000,
+    "DST": false,
+    "UTC": "03/03/1991 09:30:00"
+  },
+  "HasNext": false
+}

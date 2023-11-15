@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Tongatapu",
+  "CountryCode": "TO",
+  "CountryName": "Tonga",
+  "Current": {
+    "Abbreviation": "TOT",
+    "Start": 1484398800,
+    "Offset": 46800,
+    "DST": false,
+    "UTC": "14/01/2017 13:00:00"
+  },
+  "HasNext": false
+}

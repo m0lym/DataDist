@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Novosibirsk",
+  "CountryCode": "RU",
+  "CountryName": "Russian Federation",
+  "Current": {
+    "Abbreviation": "NOVT",
+    "Start": 1469304000,
+    "Offset": 25200,
+    "DST": false,
+    "UTC": "23/07/2016 20:00:00"
+  },
+  "HasNext": false
+}

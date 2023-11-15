@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Midway",
+  "CountryCode": "UM",
+  "CountryName": "United States Minor Outlying Islands",
+  "Current": {
+    "Abbreviation": "SST",
+    "Start": -1861879032,
+    "Offset": -39600,
+    "DST": false,
+    "UTC": "01/01/1911 11:22:48"
+  },
+  "HasNext": false
+}

@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Indian/Mauritius",
+  "CountryCode": "MU",
+  "CountryName": "Mauritius",
+  "Current": {
+    "Abbreviation": "MUT",
+    "Start": 1238274000,
+    "Offset": 14400,
+    "DST": false,
+    "UTC": "28/03/2009 21:00:00"
+  },
+  "HasNext": false
+}

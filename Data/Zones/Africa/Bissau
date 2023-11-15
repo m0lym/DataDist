@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Africa/Bissau",
+  "CountryCode": "GW",
+  "CountryName": "Guinea-Bissau",
+  "Current": {
+    "Abbreviation": "GMT",
+    "Start": 157770000,
+    "Offset": 0,
+    "DST": false,
+    "UTC": "01/01/1975 01:00:00"
+  },
+  "HasNext": false
+}

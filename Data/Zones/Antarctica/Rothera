@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Antarctica/Rothera",
+  "CountryCode": "AQ",
+  "CountryName": "Antarctica",
+  "Current": {
+    "Abbreviation": "ART",
+    "Start": 218246400,
+    "Offset": -10800,
+    "DST": false,
+    "UTC": "01/12/1976 00:00:00"
+  },
+  "HasNext": false
+}

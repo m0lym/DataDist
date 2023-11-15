@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Barbados",
+  "CountryCode": "BB",
+  "CountryName": "Barbados",
+  "Current": {
+    "Abbreviation": "AST",
+    "Start": 338706000,
+    "Offset": -14400,
+    "DST": false,
+    "UTC": "25/09/1980 05:00:00"
+  },
+  "HasNext": false
+}

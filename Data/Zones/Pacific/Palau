@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Palau",
+  "CountryCode": "PW",
+  "CountryName": "Palau",
+  "Current": {
+    "Abbreviation": "+09",
+    "Start": -2177485076,
+    "Offset": 32400,
+    "DST": false,
+    "UTC": "31/12/1900 15:02:04"
+  },
+  "HasNext": false
+}

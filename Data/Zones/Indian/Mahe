@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Indian/Mahe",
+  "CountryCode": "SC",
+  "CountryName": "Seychelles",
+  "Current": {
+    "Abbreviation": "SCT",
+    "Start": -1988163708,
+    "Offset": 14400,
+    "DST": false,
+    "UTC": "31/12/1906 20:18:12"
+  },
+  "HasNext": false
+}

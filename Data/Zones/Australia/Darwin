@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Australia/Darwin",
+  "CountryCode": "AU",
+  "CountryName": "Australia",
+  "Current": {
+    "Abbreviation": "ACST",
+    "Start": -813223800,
+    "Offset": 34200,
+    "DST": false,
+    "UTC": "25/03/1944 16:30:00"
+  },
+  "HasNext": false
+}

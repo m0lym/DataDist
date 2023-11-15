@@ -1,0 +1,20 @@
+{
+  "ZoneName": "Pacific/Chatham",
+  "CountryCode": "NZ",
+  "CountryName": "New Zealand",
+  "Current": {
+    "Abbreviation": "CHADT",
+    "Start": 1695477600,
+    "Offset": 49500,
+    "DST": true,
+    "UTC": "23/09/2023 14:00:00"
+  },
+  "Next": {
+    "Abbreviation": "CHAST",
+    "Start": 1712412000,
+    "Offset": 45900,
+    "DST": false,
+    "UTC": "06/04/2024 14:00:00"
+  },
+  "HasNext": true
+}

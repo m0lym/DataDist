@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Lima",
+  "CountryCode": "PE",
+  "CountryName": "Peru",
+  "Current": {
+    "Abbreviation": "PET",
+    "Start": 765172800,
+    "Offset": -18000,
+    "DST": false,
+    "UTC": "01/04/1994 04:00:00"
+  },
+  "HasNext": false
+}

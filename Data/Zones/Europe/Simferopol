@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Europe/Simferopol",
+  "CountryCode": "UA",
+  "CountryName": "Ukraine",
+  "Current": {
+    "Abbreviation": "MSK",
+    "Start": 1414274400,
+    "Offset": 10800,
+    "DST": false,
+    "UTC": "25/10/2014 22:00:00"
+  },
+  "HasNext": false
+}

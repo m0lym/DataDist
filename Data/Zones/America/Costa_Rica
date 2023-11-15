@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Costa_Rica",
+  "CountryCode": "CR",
+  "CountryName": "Costa Rica",
+  "Current": {
+    "Abbreviation": "CST",
+    "Start": 700635600,
+    "Offset": -21600,
+    "DST": false,
+    "UTC": "15/03/1992 05:00:00"
+  },
+  "HasNext": false
+}

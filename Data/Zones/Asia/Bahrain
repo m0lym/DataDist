@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Bahrain",
+  "CountryCode": "BH",
+  "CountryName": "Bahrain",
+  "Current": {
+    "Abbreviation": "AST",
+    "Start": 76190400,
+    "Offset": 10800,
+    "DST": false,
+    "UTC": "31/05/1972 20:00:00"
+  },
+  "HasNext": false
+}

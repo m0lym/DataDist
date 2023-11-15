@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Africa/Cairo",
+  "CountryCode": "EG",
+  "CountryName": "Egypt",
+  "Current": {
+    "Abbreviation": "EET",
+    "Start": 1411678800,
+    "Offset": 7200,
+    "DST": false,
+    "UTC": "25/09/2014 21:00:00"
+  },
+  "HasNext": false
+}

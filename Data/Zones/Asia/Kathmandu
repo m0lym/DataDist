@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Kathmandu",
+  "CountryCode": "NP",
+  "CountryName": "Nepal",
+  "Current": {
+    "Abbreviation": "NPT",
+    "Start": 504901800,
+    "Offset": 20700,
+    "DST": false,
+    "UTC": "31/12/1985 18:30:00"
+  },
+  "HasNext": false
+}

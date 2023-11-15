@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Kamchatka",
+  "CountryCode": "RU",
+  "CountryName": "Russian Federation",
+  "Current": {
+    "Abbreviation": "PETT",
+    "Start": 1301151600,
+    "Offset": 43200,
+    "DST": false,
+    "UTC": "26/03/2011 15:00:00"
+  },
+  "HasNext": false
+}

@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Africa/Tripoli",
+  "CountryCode": "LY",
+  "CountryName": "Libya",
+  "Current": {
+    "Abbreviation": "EET",
+    "Start": 1382659200,
+    "Offset": 7200,
+    "DST": false,
+    "UTC": "25/10/2013 00:00:00"
+  },
+  "HasNext": false
+}

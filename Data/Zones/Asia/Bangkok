@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Bangkok",
+  "CountryCode": "TH",
+  "CountryName": "Thailand",
+  "Current": {
+    "Abbreviation": "ICT",
+    "Start": -1570084924,
+    "Offset": 25200,
+    "DST": false,
+    "UTC": "31/03/1920 17:17:56"
+  },
+  "HasNext": false
+}

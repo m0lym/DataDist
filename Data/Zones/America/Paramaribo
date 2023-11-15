@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Paramaribo",
+  "CountryCode": "SR",
+  "CountryName": "Suriname",
+  "Current": {
+    "Abbreviation": "SRT",
+    "Start": 465449400,
+    "Offset": -10800,
+    "DST": false,
+    "UTC": "01/10/1984 03:30:00"
+  },
+  "HasNext": false
+}

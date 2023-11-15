@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Omsk",
+  "CountryCode": "RU",
+  "CountryName": "Russian Federation",
+  "Current": {
+    "Abbreviation": "OMST",
+    "Start": 1414263600,
+    "Offset": 21600,
+    "DST": false,
+    "UTC": "25/10/2014 19:00:00"
+  },
+  "HasNext": false
+}

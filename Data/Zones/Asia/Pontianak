@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Pontianak",
+  "CountryCode": "ID",
+  "CountryName": "Indonesia",
+  "Current": {
+    "Abbreviation": "WIB",
+    "Start": 567964800,
+    "Offset": 25200,
+    "DST": false,
+    "UTC": "31/12/1987 16:00:00"
+  },
+  "HasNext": false
+}

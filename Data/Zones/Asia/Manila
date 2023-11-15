@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Manila",
+  "CountryCode": "PH",
+  "CountryName": "Philippines",
+  "Current": {
+    "Abbreviation": "PST",
+    "Start": 275151600,
+    "Offset": 28800,
+    "DST": false,
+    "UTC": "20/09/1978 15:00:00"
+  },
+  "HasNext": false
+}

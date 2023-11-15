@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Antarctica/Syowa",
+  "CountryCode": "AQ",
+  "CountryName": "Antarctica",
+  "Current": {
+    "Abbreviation": "SYOT",
+    "Start": -719636812,
+    "Offset": 10800,
+    "DST": false,
+    "UTC": "13/03/1947 20:53:08"
+  },
+  "HasNext": false
+}

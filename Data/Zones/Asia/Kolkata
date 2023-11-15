@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Kolkata",
+  "CountryCode": "IN",
+  "CountryName": "India",
+  "Current": {
+    "Abbreviation": "IST",
+    "Start": -764145000,
+    "Offset": 19800,
+    "DST": false,
+    "UTC": "14/10/1945 17:30:00"
+  },
+  "HasNext": false
+}

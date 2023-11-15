@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Kuching",
+  "CountryCode": "MY",
+  "CountryName": "Malaysia",
+  "Current": {
+    "Abbreviation": "MYT",
+    "Start": -767005200,
+    "Offset": 28800,
+    "DST": false,
+    "UTC": "11/09/1945 15:00:00"
+  },
+  "HasNext": false
+}

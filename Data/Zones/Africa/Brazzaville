@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Africa/Brazzaville",
+  "CountryCode": "CG",
+  "CountryName": "Congo",
+  "Current": {
+    "Abbreviation": "WAT",
+    "Start": -1588465800,
+    "Offset": 3600,
+    "DST": false,
+    "UTC": "31/08/1919 23:30:00"
+  },
+  "HasNext": false
+}

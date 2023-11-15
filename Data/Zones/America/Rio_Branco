@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Rio_Branco",
+  "CountryCode": "BR",
+  "CountryName": "Brazil",
+  "Current": {
+    "Abbreviation": "ACT",
+    "Start": 1384056000,
+    "Offset": -18000,
+    "DST": false,
+    "UTC": "10/11/2013 04:00:00"
+  },
+  "HasNext": false
+}

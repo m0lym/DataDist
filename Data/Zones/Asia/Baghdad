@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Baghdad",
+  "CountryCode": "IQ",
+  "CountryName": "Iraq",
+  "Current": {
+    "Abbreviation": "AST",
+    "Start": 1191196800,
+    "Offset": 10800,
+    "DST": false,
+    "UTC": "01/10/2007 00:00:00"
+  },
+  "HasNext": false
+}

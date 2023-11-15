@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Wake",
+  "CountryCode": "UM",
+  "CountryName": "United States Minor Outlying Islands",
+  "Current": {
+    "Abbreviation": "WAKT",
+    "Start": -2177492788,
+    "Offset": 43200,
+    "DST": false,
+    "UTC": "31/12/1900 12:53:32"
+  },
+  "HasNext": false
+}

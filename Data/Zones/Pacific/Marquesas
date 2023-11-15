@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Marquesas",
+  "CountryCode": "PF",
+  "CountryName": "French Polynesia",
+  "Current": {
+    "Abbreviation": "MART",
+    "Start": -1806676920,
+    "Offset": -34200,
+    "DST": false,
+    "UTC": "01/10/1912 09:18:00"
+  },
+  "HasNext": false
+}

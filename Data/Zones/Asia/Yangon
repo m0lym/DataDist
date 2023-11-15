@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Yangon",
+  "CountryCode": "MM",
+  "CountryName": "Myanmar",
+  "Current": {
+    "Abbreviation": "MMT",
+    "Start": -778410000,
+    "Offset": 23400,
+    "DST": false,
+    "UTC": "02/05/1945 15:00:00"
+  },
+  "HasNext": false
+}

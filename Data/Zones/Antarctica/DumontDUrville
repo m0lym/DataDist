@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Antarctica/DumontDUrville",
+  "CountryCode": "AQ",
+  "CountryName": "Antarctica",
+  "Current": {
+    "Abbreviation": "DDUT",
+    "Start": -2366790512,
+    "Offset": 36000,
+    "DST": false,
+    "UTC": "31/12/1894 14:11:28"
+  },
+  "HasNext": false
+}

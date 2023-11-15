@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Indian/Cocos",
+  "CountryCode": "CC",
+  "CountryName": "Cocos (Keeling) Islands",
+  "Current": {
+    "Abbreviation": "CCT",
+    "Start": -2209012060,
+    "Offset": 23400,
+    "DST": false,
+    "UTC": "31/12/1899 17:32:20"
+  },
+  "HasNext": false
+}

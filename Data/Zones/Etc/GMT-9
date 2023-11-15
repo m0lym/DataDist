@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Etc/GMT-9",
+  "CountryCode": "ZZ",
+  "CountryName": "---",
+  "Current": {
+    "Abbreviation": "GMT-9",
+    "Start": 0,
+    "Offset": -32400,
+    "DST": false,
+    "UTC": "01/01/1970 00:00:00"
+  },
+  "HasNext": false
+}

@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Africa/Addis_Ababa",
+  "CountryCode": "ET",
+  "CountryName": "Ethiopia",
+  "Current": {
+    "Abbreviation": "EAT",
+    "Start": -865305900,
+    "Offset": 10800,
+    "DST": false,
+    "UTC": "31/07/1942 21:15:00"
+  },
+  "HasNext": false
+}

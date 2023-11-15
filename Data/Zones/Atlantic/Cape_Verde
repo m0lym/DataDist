@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Atlantic/Cape_Verde",
+  "CountryCode": "CV",
+  "CountryName": "Cabo Verde",
+  "Current": {
+    "Abbreviation": "CVT",
+    "Start": 186120000,
+    "Offset": -3600,
+    "DST": false,
+    "UTC": "25/11/1975 04:00:00"
+  },
+  "HasNext": false
+}

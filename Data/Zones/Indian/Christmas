@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Indian/Christmas",
+  "CountryCode": "CX",
+  "CountryName": "Christmas Island",
+  "Current": {
+    "Abbreviation": "CXT",
+    "Start": -2364102172,
+    "Offset": 25200,
+    "DST": false,
+    "UTC": "31/01/1895 16:57:08"
+  },
+  "HasNext": false
+}

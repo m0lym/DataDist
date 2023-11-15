@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Seoul",
+  "CountryCode": "KR",
+  "CountryName": "Korea, Republic of",
+  "Current": {
+    "Abbreviation": "KST",
+    "Start": 592333200,
+    "Offset": 32400,
+    "DST": false,
+    "UTC": "08/10/1988 17:00:00"
+  },
+  "HasNext": false
+}

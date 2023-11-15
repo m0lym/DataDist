@@ -1,0 +1,20 @@
+{
+  "ZoneName": "Asia/Nicosia",
+  "CountryCode": "CY",
+  "CountryName": "Cyprus",
+  "Current": {
+    "Abbreviation": "EET",
+    "Start": 1698541200,
+    "Offset": 7200,
+    "DST": false,
+    "UTC": "29/10/2023 01:00:00"
+  },
+  "Next": {
+    "Abbreviation": "EEST",
+    "Start": 1711846800,
+    "Offset": 10800,
+    "DST": true,
+    "UTC": "31/03/2024 01:00:00"
+  },
+  "HasNext": true
+}

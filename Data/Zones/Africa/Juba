@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Africa/Juba",
+  "CountryCode": "SS",
+  "CountryName": "South Sudan",
+  "Current": {
+    "Abbreviation": "CAT",
+    "Start": 1612126800,
+    "Offset": 7200,
+    "DST": false,
+    "UTC": "31/01/2021 21:00:00"
+  },
+  "HasNext": false
+}

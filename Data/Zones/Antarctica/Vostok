@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Antarctica/Vostok",
+  "CountryCode": "AQ",
+  "CountryName": "Antarctica",
+  "Current": {
+    "Abbreviation": "VOST",
+    "Start": -380073600,
+    "Offset": 21600,
+    "DST": false,
+    "UTC": "16/12/1957 00:00:00"
+  },
+  "HasNext": false
+}

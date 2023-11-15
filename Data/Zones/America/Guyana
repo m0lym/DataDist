@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Guyana",
+  "CountryCode": "GY",
+  "CountryName": "Guyana",
+  "Current": {
+    "Abbreviation": "GYT",
+    "Start": 701841600,
+    "Offset": -14400,
+    "DST": false,
+    "UTC": "29/03/1992 04:00:00"
+  },
+  "HasNext": false
+}

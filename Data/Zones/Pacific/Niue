@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Niue",
+  "CountryCode": "NU",
+  "CountryName": "Niue",
+  "Current": {
+    "Abbreviation": "NUT",
+    "Start": -173623200,
+    "Offset": -39600,
+    "DST": false,
+    "UTC": "01/07/1964 11:20:00"
+  },
+  "HasNext": false
+}

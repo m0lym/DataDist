@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Pyongyang",
+  "CountryCode": "KP",
+  "CountryName": "Korea (Democratic People's Republic of)",
+  "Current": {
+    "Abbreviation": "KST",
+    "Start": 1525446000,
+    "Offset": 32400,
+    "DST": false,
+    "UTC": "04/05/2018 15:00:00"
+  },
+  "HasNext": false
+}

@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Australia/Perth",
+  "CountryCode": "AU",
+  "CountryName": "Australia",
+  "Current": {
+    "Abbreviation": "AWST",
+    "Start": 1238263200,
+    "Offset": 28800,
+    "DST": false,
+    "UTC": "28/03/2009 18:00:00"
+  },
+  "HasNext": false
+}

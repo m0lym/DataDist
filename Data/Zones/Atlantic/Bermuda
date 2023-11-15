@@ -1,0 +1,20 @@
+{
+  "ZoneName": "Atlantic/Bermuda",
+  "CountryCode": "BM",
+  "CountryName": "Bermuda",
+  "Current": {
+    "Abbreviation": "AST",
+    "Start": 1699160400,
+    "Offset": -14400,
+    "DST": false,
+    "UTC": "05/11/2023 05:00:00"
+  },
+  "Next": {
+    "Abbreviation": "ADT",
+    "Start": 1710050400,
+    "Offset": -10800,
+    "DST": true,
+    "UTC": "10/03/2024 06:00:00"
+  },
+  "HasNext": true
+}

@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Dubai",
+  "CountryCode": "AE",
+  "CountryName": "United Arab Emirates",
+  "Current": {
+    "Abbreviation": "GST",
+    "Start": -1577936472,
+    "Offset": 14400,
+    "DST": false,
+    "UTC": "31/12/1919 20:18:48"
+  },
+  "HasNext": false
+}

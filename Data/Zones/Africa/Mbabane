@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Africa/Mbabane",
+  "CountryCode": "SZ",
+  "CountryName": "Eswatini",
+  "Current": {
+    "Abbreviation": "SAST",
+    "Start": -813805200,
+    "Offset": 7200,
+    "DST": false,
+    "UTC": "18/03/1944 23:00:00"
+  },
+  "HasNext": false
+}

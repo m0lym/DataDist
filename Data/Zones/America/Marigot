@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Marigot",
+  "CountryCode": "MF",
+  "CountryName": "Saint Martin (French part)",
+  "Current": {
+    "Abbreviation": "AST",
+    "Start": -765399600,
+    "Offset": -14400,
+    "DST": false,
+    "UTC": "30/09/1945 05:00:00"
+  },
+  "HasNext": false
+}

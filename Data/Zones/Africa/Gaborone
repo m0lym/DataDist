@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Africa/Gaborone",
+  "CountryCode": "BW",
+  "CountryName": "Botswana",
+  "Current": {
+    "Abbreviation": "CAT",
+    "Start": -2109291020,
+    "Offset": 7200,
+    "DST": false,
+    "UTC": "28/02/1903 21:49:40"
+  },
+  "HasNext": false
+}

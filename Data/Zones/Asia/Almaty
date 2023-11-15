@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Almaty",
+  "CountryCode": "KZ",
+  "CountryName": "Kazakhstan",
+  "Current": {
+    "Abbreviation": "ALMT",
+    "Start": 1099166400,
+    "Offset": 21600,
+    "DST": false,
+    "UTC": "30/10/2004 20:00:00"
+  },
+  "HasNext": false
+}

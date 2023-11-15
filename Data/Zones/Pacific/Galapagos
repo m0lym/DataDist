@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Pacific/Galapagos",
+  "CountryCode": "EC",
+  "CountryName": "Ecuador",
+  "Current": {
+    "Abbreviation": "GALT",
+    "Start": 728888400,
+    "Offset": -21600,
+    "DST": false,
+    "UTC": "05/02/1993 05:00:00"
+  },
+  "HasNext": false
+}

@@ -1,0 +1,13 @@
+{
+  "ZoneName": "Asia/Aqtau",
+  "CountryCode": "KZ",
+  "CountryName": "Kazakhstan",
+  "Current": {
+    "Abbreviation": "MSD+1",
+    "Start": 1080424800,
+    "Offset": 18000,
+    "DST": true,
+    "UTC": "27/03/2004 22:00:00"
+  },
+  "HasNext": false
+}

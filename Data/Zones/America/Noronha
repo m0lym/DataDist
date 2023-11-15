@@ -1,0 +1,13 @@
+{
+  "ZoneName": "America/Noronha",
+  "CountryCode": "BR",
+  "CountryName": "Brazil",
+  "Current": {
+    "Abbreviation": "FNT",
+    "Start": 1013907600,
+    "Offset": -7200,
+    "DST": false,
+    "UTC": "17/02/2002 01:00:00"
+  },
+  "HasNext": false
+}
